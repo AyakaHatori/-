@@ -1,0 +1,6 @@
+mkdir awesome
+cd awesome
+git init
+git add .
+git commit -m '完了'
+git remote add origin https://github.com/AyakaHatori/-/new/main
